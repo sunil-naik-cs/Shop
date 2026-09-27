@@ -1,0 +1,8 @@
+{
+  "name": "Shirali Coastal Traders & Services",
+  "description": "Official local business website for Shirali Coastal Traders & Services located in Shirali, Karnataka. Store hours, location directions, services, and contact information.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
